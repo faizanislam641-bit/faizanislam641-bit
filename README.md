@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,20:004e92,45:0077ff,70:00c6ff,100:00ffff&height=280&section=header&text=FAIZAN%20ISLAM&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=CSE%20STUDENT%20%E2%80%A2%20DEVELOPER%20%E2%80%A2%20CYBERSECURITY%20LEARNER&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120900,20:3d2b00,40:806000,60:D4AF37,80:FFD700,100:FFF1A8&height=300&section=header&text=%F0%9D%93%95%F0%9D%93%AA%F0%9D%93%B2%F0%9D%93%BF%F0%9D%93%AA%F0%9D%93%BD%20%F0%9D%93%98%F0%9D%93%BC%F0%9D%93%B5%F0%9D%93%AA%F0%9D%93%B6&fontSize=58&fontColor=FFF8DC&fontAlignY=35&desc=CSE%20STUDENT%20%E2%80%A2%20DEVELOPER%20%E2%80%A2%20CYBERSECURITY%20LEARNER&descAlignY=57&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=%F0%9F%94%A5+Welcome+to+Faizan's+Digital+World+%F0%9F%94%A5;CSE+Student+%7C+Developer+%7C+Problem+Solver;%F0%9F%92%BB+Building+Projects+%7C+Learning+Every+Day;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+%26+Ethical+Hacking;%F0%9F%8F%86+Competitive+Programming+Enthusiast;%F0%9F%94%A5+Code.+Build.+Break.+Fix.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2200&pause=700&color=FFD700&center=true&vCenter=true&width=850&lines=%F0%9F%94%A5+Welcome+to+Faizan's+Digital+World+%F0%9F%94%A5;%E2%9C%A8+Code+%E2%80%A2+Build+%E2%80%A2+Create+%E2%80%A2+Innovate;%F0%9F%92%BB+CSE+Student+%7C+Developer;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+%26+Ethical+Hacking;%F0%9F%8F%86+Competitive+Programming+Enthusiast;%F0%9F%94%A5+Learn.+Build.+Break.+Fix.+Repeat." />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=faizanislam641-bit&label=PROFILE%20VIEWS&color=00c6ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/faizanislam641-bit?label=FOLLOWERS&style=for-the-badge&color=0077ff" />
-<img src="https://img.shields.io/github/stars/faizanislam641-bit?label=STARS&style=for-the-badge&color=00c6ff" />
+<img src="https://komarev.com/ghpvc/?username=faizanislam641-bit&label=PROFILE%20VIEWS&color=D4AF37&style=for-the-badge"/>
 
 </div>
+
 
 ---
 
