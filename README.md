@@ -46,7 +46,7 @@
 
 ```text
 ╔══════════════════════╗
-║   FAIZAN ISLAM       ║
+║     FAIZAN ISLAM     ║
 ╠══════════════════════╣
 ║ 💻 Developer         ║
 ║ 🧠 Problem Solver    ║
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-# 📊 CURRENTLY LEARNING
+# 📚 CURRENTLY LEARNING
 
 </div>
 
@@ -130,7 +130,6 @@
 <td>🟨🟨🟨🟨🟧⬜⬜⬜⬜⬜</td>
 <td><b>40%</b></td>
 </tr>
-
 </table>
 
 <div align="center">
@@ -145,15 +144,15 @@
 
 # 📈 GITHUB ANALYTICS
 
-| 📦 Repositories | ⭐ Stars | 👥 Followers | 📝 Commits |
-|:---:|:---:|:---:|:---:|
-| **Building** | **Growing** | **Connecting** | **Coding** |
+| 📦 **Repositories** |   ⭐ **Stars**  |  👥 **Followers** | 📝 **Commits** |
+| :-----------------: | :------------: | :---------------: | :------------: |
+|   🟡 **Building**   | 🟨 **Growing** | 🟨 **Connecting** |  🟨 **Coding** |
 
 <br>
 
-| 💻 Primary Language | 🧠 Problem Solving | 🛡️ Cybersecurity | 🚀 Projects |
-|:---:|:---:|:---:|:---:|
-| **C / C++** | **DSA** | **Learning** | **Building** |
+| 💻 **Programming** | 🧠 **Problem Solving** | 🛡️ **Cybersecurity** | 🚀 **Projects** |
+| :----------------: | :--------------------: | :-------------------: | :-------------: |
+|   🟨 **C / C++**   |       🟧 **DSA**       |    🟨 **Learning**    | 🟧 **Building** |
 
 </div>
 
@@ -163,13 +162,13 @@
 
 # 🔥 GITHUB STREAK
 
-### 🟨 Consistency
+### ⚡ Coding Consistency
 
-`████████████████████`
+🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨
+🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨
+🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨
 
-**Keep Coding • Keep Learning • Keep Improving**
-
-### ⚡ Daily Progress
+### 🟡 Keep Coding • Keep Learning • Keep Improving
 
 `CODE` → `PRACTICE` → `BUILD` → `IMPROVE` → `REPEAT`
 
@@ -181,15 +180,15 @@
 
 # 🏆 GITHUB TROPHIES
 
-| 🥇 Learning | 💻 Coding | 🧩 Problem Solving | 🚀 Projects |
-|:---:|:---:|:---:|:---:|
-| **Knowledge** | **Consistency** | **Persistence** | **Creativity** |
+|  🥇 **Learning** |    💻 **Coding**   | 🧩 **Problem Solving** |  🚀 **Projects**  |
+| :--------------: | :----------------: | :--------------------: | :---------------: |
+| 🟨 **Knowledge** | 🟧 **Consistency** |   🟨 **Persistence**   | 🟧 **Creativity** |
 
 <br>
 
-### ⚜️ Every contribution is a step forward.
+### 🏅 Milestones
 
-**Learn → Build → Contribute → Grow**
+🟨 **Learn**　→　🟧 **Build**　→　🟡 **Contribute**　→　🟨 **Grow**
 
 </div>
 
@@ -199,14 +198,21 @@
 
 # 📊 CONTRIBUTION GRAPH
 
-```text
-Less  ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░  More
+### 🟨 Coding Activity
 
-      ░ ░ ▒ ▒ ▒ ░ ░ ▓ ▓ ▒ ░ ░ ▒ ▓ ▓ ▓ ░ ░ ▒ ▒
-      ░ ▒ ▓ ▓ ▒ ░ ▒ ▓ ▓ ▓ ▒ ░ ░ ▒ ▓ ▓ ▒ ░ ░ ▒
-      ▒ ▓ ▓ ▒ ░ ░ ▒ ▓ ▒ ░ ░ ▒ ▓ ▓ ▓ ▒ ░ ░ ▒ ▓
-      ░ ▒ ▓ ▓ ▓ ▒ ░ ▒ ▓ ▓ ▒ ░ ▒ ▓ ▓ ▒ ░ ░ ▒ ▓
-      ░ ░ ▒ ▓ ▓ ▒ ░ ░ ▒ ▓ ▓ ▒ ░ ░ ▒ ▓ ▓ ▒ ░ ░
+🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨 🟨
+🟨 🟧 🟨 🟨 🟧 🟧 🟨 🟨 🟨 🟧 🟨 🟨
+🟧 🟨 🟨 🟧 🟧 🟨 🟨 🟧 🟨 🟨 🟧 🟨
+🟨 🟨 🟧 🟧 🟨 🟨 🟧 🟨 🟧 🟨 🟨 🟧
+🟨 🟧 🟨 🟨 🟨 🟧 🟧 🟨 🟨 🟧 🟨 🟨
+
+**Less Activity** 🟨　　🟧　　🟨 **More Activity**
+
+<br>
+
+### ⚡ Every Line of Code = Progress
+
+</div>
 
 ---
 
@@ -271,25 +277,31 @@ Less  ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ �
 <div align="center">
 
 ```text
-🐧 Linux  ──►  🌐 Networking  ──►  🔎 Nmap
-                                      │
-                                      ▼
-                              🌐 Web Security
-                                      │
-                                      ▼
-                              🕵️ Burp Suite
-                                      │
-                                      ▼
-                             💉 SQL Injection
-                                      │
-                                      ▼
-                                  ⚡ XSS
-                                      │
-                                      ▼
-                           🔐 Penetration Testing
-                                      │
-                                      ▼
-                              🛡️ CYBERSECURITY
+🐧 Linux
+   │
+   ▼
+🌐 Networking
+   │
+   ▼
+🔎 Nmap
+   │
+   ▼
+🌐 Web Security
+   │
+   ▼
+🕵️ Burp Suite
+   │
+   ▼
+💉 SQL Injection
+   │
+   ▼
+⚡ XSS
+   │
+   ▼
+🔐 Penetration Testing
+   │
+   ▼
+🛡️ CYBERSECURITY
 ```
 
 </div>
@@ -352,32 +364,6 @@ Less  ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ �
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-# ⚜️ MY CODING PHILOSOPHY
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Think+%E2%86%92+Code+%E2%86%92+Test+%E2%86%92+Debug+%E2%86%92+Improve;%F0%9F%94%A5+Consistency+beats+motivation;%E2%9A%9C%EF%B8%8F+Quality+over+quantity;%F0%9F%92%BB+Every+bug+is+a+lesson;%F0%9F%9A%80+Keep+building.+Keep+learning." />
-
-<br><br>
-
-```text
-          ╔══════════════════════════════════════╗
-          ║                                      ║
-          ║       THINK  →  BUILD  →  LEARN      ║
-          ║                                      ║
-          ║       FAIL   →  FIX    →  GROW       ║
-          ║                                      ║
-          ║       REPEAT →  IMPROVE →  MASTER    ║
-          ║                                      ║
-          ╚══════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
@@ -457,6 +443,30 @@ Programming solutions and algorithmic challenges.
 
 <div align="center">
 
+# ⚜️ MY CODING PHILOSOPHY
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Think+%E2%86%92+Code+%E2%86%92+Test+%E2%86%92+Debug+%E2%86%92+Improve;%F0%9F%94%A5+Consistency+beats+motivation;%E2%9A%9C%EF%B8%8F+Quality+over+quantity;%F0%9F%92%BB+Every+bug+is+a+lesson;%F0%9F%9A%80+Keep+building.+Keep+learning." />
+
+<br>
+
+```text
+╔══════════════════════════════════════╗
+║                                      ║
+║      THINK  →  BUILD  →  LEARN       ║
+║                                      ║
+║      FAIL   →  FIX    →  GROW        ║
+║                                      ║
+║      REPEAT → IMPROVE → MASTER       ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
 # 📫 CONNECT WITH ME
 
 <a href="https://github.com/faizanislam641-bit">
@@ -477,7 +487,7 @@ Programming solutions and algorithmic challenges.
 
 <div align="center">
 
-## 👀 PROFILE VISITORS
+# 👀 PROFILE VISITORS
 
 <img src="https://komarev.com/ghpvc/?username=faizanislam641-bit&label=VISITORS&color=FFD700&style=for-the-badge"/>
 
