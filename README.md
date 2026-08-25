@@ -173,13 +173,9 @@
 
 ---
 
-<div align="center">
-
-# 📊 CONTRIBUTION GRAPH
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanislam641-bit&bg_color=0B0800&color=FFD700&line=D4AF37&point=FFF8DC&area=true&hide_border=true" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizanislam641-bit&show_icons=true" width="500">
+</p>
 
 ---
 
