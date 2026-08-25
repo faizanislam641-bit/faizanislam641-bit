@@ -145,9 +145,9 @@
 
 # 📈 GITHUB ANALYTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizanislam641-bit&show_icons=true&theme=dark&bg_color=0B0800&title_color=FFD700&icon_color=D4AF37&text_color=FFF8DC&border_color=594400&hide_border=false&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=faizanislam641-bit&show_icons=true&theme=dark&bg_color=0B0800&title_color=FFD700&icon_color=D4AF37&text_color=FFF8DC&border_color=594400&hide_border=false&count_private=true&include_all_commits=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanislam641-bit&layout=compact&theme=dark&bg_color=0B0800&title_color=FFD700&text_color=FFF8DC&border_color=594400&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanislam641-bit&layout=compact&theme=dark&bg_color=0B0800&title_color=FFD700&text_color=FFF8DC&border_color=594400&hide_border=false" width="48%"/>
 
 </div>
 
@@ -157,7 +157,7 @@
 
 # 🔥 GITHUB STREAK
 
-<img src="https://streak-stats.demolab.com?user=faizanislam641-bit&theme=dark&hide_border=false&background=0B0800&ring=FFD700&fire=D4AF37&currStreakLabel=FFD700&sideLabels=FFF8DC&dates=AAAAAA&border=594400" />
+<img src="https://streak-stats.demolab.com?user=faizanislam641-bit&theme=dark&hide_border=false&background=0B0800&ring=FFD700&fire=D4AF37&currStreakLabel=FFD700&sideLabels=FFF8DC&dates=AAAAAA&border=594400" width="70%"/>
 
 </div>
 
@@ -167,7 +167,7 @@
 
 # 🏆 GITHUB TROPHIES
 
-<img src="https://github-profile-trophy.vercel.app/?username=faizanislam641-bit&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=faizanislam641-bit&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
 
 </div>
 
